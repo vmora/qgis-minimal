@@ -1,0 +1,9 @@
+[general]
+name=qgis-minimal
+qgisMinimumVersion=2.0
+description=do nothing
+version=1.0
+author=Oslandia
+email=infos@oslandia.com
+experimental=True
+deprecated=False
